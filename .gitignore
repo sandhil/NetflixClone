@@ -1,0 +1,10 @@
+*~
+.DS_Store
+Carthage
+Frameworks
+xcuserdata
+Pods
+*.xcworkspace
+fastlane/report.xml
+Secrets.swift
+Constants.swift
